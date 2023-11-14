@@ -99,3 +99,12 @@
   font-size: 3.8rem;
   padding: 12px;
 }
+.btn{
+    all: unset;
+    background-color: blueviolet;
+    color: aqua;
+    font-size: 30px;
+    padding: 5px 10px;
+    border-radius: 20px;
+    margin-top: 40px;
+}
